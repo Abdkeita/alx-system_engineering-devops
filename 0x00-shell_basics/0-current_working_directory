@@ -1,2 +1,4 @@
 #!/bin/bash
-echo pwd
+$0
+dir_path=$(dirname $0)
+echo $dir_path
