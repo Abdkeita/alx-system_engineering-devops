@@ -1,3 +1,2 @@
 #!/bin/bash
-dir=$(pwd -P)
-echo dir
+echo pwd 0-current_working_directory
