@@ -1,0 +1,1 @@
+Another folder created, containing command/script on shell redirections
